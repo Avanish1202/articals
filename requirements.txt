@@ -1,1 +1,1 @@
-lxml[html_clean]==4.9.3
+pip install --upgrade pip
