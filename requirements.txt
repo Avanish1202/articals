@@ -1,3 +1,4 @@
 streamlit==1.30.0
 newspaper3k
 gTTS
+lxml[html_clean]
