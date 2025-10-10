@@ -1,1 +1,1 @@
-streamlit==1.30.0
+lxml[html_clean]==4.9.3
